@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="true_button">Правда</string>
+    <string name="false_button">Неправда</string>
+    <string name="correct_toast">Правильно!</string>
+    <string name="incorrect_toast">Неправильно!</string>
+    <string name="answer_yes">Відповідь: ТАК</string>
+    <string name="answer_no">Відповідь: НІ</string>
+    <string name="score_format">Бали: %1$d / %2$d</string>
+    <string name="result_format">Тест завершено! Ваш результат: %1$d з %2$d</string>
+
+
+    <string-array name="questions">
+        <item>Київ — столиця України.</item>
+        <item>Сонце обертається навколо Землі.</item>
+        <item>Дніпро впадає в Чорне море.</item>
+        <item>Android створений компанією Apple.</item>
+        <item>Java і JavaScript — це одна й та сама мова.</item>
+        <item>У тижні 7 днів.</item>
+        <item>Вода кипить при 50 °C на рівні моря.</item>
+        <item>Файл strings.xml зберігає текстові ресурси.</item>
+        <item>Найбільший океан — Атлантичний.</item>
+        <item>HTTPS шифрує трафік між клієнтом і сервером.</item>
+    </string-array>
+
+    <string-array name="answers">
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+    </string-array>
+    <string name="prev_description">Назад</string>
+    <string name="next_description">Далі</string>
+</resources>
